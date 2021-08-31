@@ -1,0 +1,9 @@
+.body__1 {
+  margin-top: 80px;
+  margin-left: 580px;
+}
+@media only screen and (max-width: 600px) {
+  .body__1 {
+    margin-left: 50px;
+  }
+}

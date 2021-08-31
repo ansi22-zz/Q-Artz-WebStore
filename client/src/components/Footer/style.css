@@ -1,0 +1,15 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.footer {
+  display: flex;
+  margin-top: 10px;
+  background-color: #151414;
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+}
+.child {
+  margin: auto;
+}
