@@ -11,8 +11,8 @@ This application is a full stack application developed using the MERN stack i.e.
 <h1></h1>
 <h4 align = "center">
  
-  <img src="/assets/artwork.png" width="405"/>
-  <img src="/assets/detail.png" width="405" />
+  <img src="/assets/artwork.png" />
+  <img src="/assets/detail.png"  />
   </p>
 
  
