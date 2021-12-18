@@ -19,6 +19,7 @@ Q-ARTZ
 - Navigate to the **client** folder `$ cd client`
 - Install all the required dependencies `$ npm i`
 
+
 - To run the frontend of the application: `$ npm start`
 - Inside your browser, navigate to the link localhost:3000
 
@@ -72,14 +73,31 @@ Q-ARTZ
 #### DEVELOPMENT ENVIRONMENT: Visual Studio Code - Editor
 
 <h1></h1>
-<h4 align = "center">
- 
-  <img src="/assets/artwork.png" />
-  <img src="/assets/detail.png"  />
-  </p>
 
- 
-</h4>
+### Screenshots
+
+Landing Page             | 
+:-------------------------:|
+![left](/assets/front.png) |
+
+Sign-in       |  Sign-up
+:-------------------------:|:-------------------------:
+![left](/assets/signin.png) | ![right](/assets/signup.png)
+
+Artwork       |  Artwork details
+:-------------------------:|:-------------------------:
+![left](/assets/artwork.png) | ![right](/assets/detail.png)
+
+Checkout details        |   Shipping address
+:-------------------------:|:-------------------------:
+![left](/assets/check.png) | ![right](/assets/shipping_address.png)
+
+
+Shipping details        |   Order
+:-------------------------:|:-------------------------:
+![left](/assets/shipping_details.png) | ![right](/assets/order.png)
+
+
 <h1></h1>
 
 <p align = "center">
