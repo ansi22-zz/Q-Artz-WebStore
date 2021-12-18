@@ -64,20 +64,10 @@ Q-ARTZ
 ## NODE PACKAGES/ LIBRARIES USED:
 
 - **CLIENT-SIDE:**
-  - axios
-  - react-moment
-  - react-redux
-  - redux-thunk
-  - validator
+  - axios, react-moment, react-redux, redux-thunk, validator.
 
 - **SERVER-SIDE:**
-  - bcryptjs
-  - body-parser
-  - express
-  - jsonwebtoken
-  - mongoose
-  - nodemon
-  - validator
+  - bcryptjs, body-parser, express, jsonwebtoken, mongoose, nodemon, validator
 
 #### DEVELOPMENT ENVIRONMENT: Visual Studio Code - Editor
 
