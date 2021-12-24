@@ -11,7 +11,8 @@ Q-ARTZ
 
 ## QUICK START
 
-- Clone the repository **'The GeekHUB'** by clicking on the Clone button `https://github.com/ansi22/Q-Artz`. Alternatively, download the repository.
+- Clone the repository **'
+Q-Artz-WebStore'** by clicking on the Clone button `https://github.com/ansi22/Q-Artz`. Alternatively, download the repository.
 - Navigate to the folder `$ cd Q-Artz`
 
 ### CLIENT SETUP
